@@ -1,0 +1,46 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px; /* Increased font size */
+    line-height: 1.6;
+    margin: 40px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    font-size: 42px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #2980b9;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #1abc9c;
+}
+
+img {
+    display: block;
+    margin-top: 30px;
+}
+
+em {
+    font-size: 16px;
+    color: #666;
+}
+
