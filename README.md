@@ -47,4 +47,4 @@ I hope you enjoy browsing through this small project!
 ## Contact
 
 - **Telegram:** [@sree34u](https://t.me/sree34u)  
-- **LinkedIn:** Linkedin
+- **LinkedIn:** [Linkedin] https://www.linkedin.com/in/sreenath-s-sree34u/
