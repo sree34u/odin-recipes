@@ -1,7 +1,10 @@
-Recipe Project
+ Recipe Project
+About
+This is my take on the simple HTML recipe project built as part of The Odin Project curriculum. The goal was to build a basic recipe website using just HTML to practice proper structure, internal linking, and semantic elements.
 
-About:
-This is my take on the simple HTML recipe project built as part of The Odin Project curriculum. The goal is to build a basic recipe website using just HTML to practice proper structure, linking pages, and semantic elements. I have changed the content a little bit to try and make it more humorous and/or entertaining. Later I have also added CSS elements as a part of my learning journey. I hope you enjoy reading this small project.
+I’ve added a humorous twist to the content to make it more engaging. Later, I incorporated some CSS to enhance the visual styling as part of my learning journey.
+
+I hope you enjoy browsing through this small project!
 
 Features
 Multiple recipe pages
@@ -13,14 +16,15 @@ Internal page navigation
 Technologies Used
 HTML5
 CSS
-No JavaScript 
+No JavaScript
 
-Live Demo: (https://sree34u.github.io/odin-recipes/)
+Live Demo
+Check it out here! (https://sree34u.github.io/odin-recipes/)
 
 Credits
-Recipes sourced from: my own imagination
-Images: copyright free images have been sourced pexels.com website. [pexels](https://www.pexels.com/)
+Recipes: Imagined and written by me
+Images: Copyright-free images sourced from [pexels](https://www.pexels.com/)
 
-Contact info:
-@sree34u on telegram
-[Linkedin](https://www.linkedin.com/in/sreenath-s-sree34u/)
+Contact
+Telegram: @sree34u
+LinkedIn: [Linkedin](https://www.linkedin.com/in/sreenath-s-sree34u/)
